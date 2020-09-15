@@ -11,4 +11,4 @@ Process description of the gaussian_method.py:
 - Peak detection algorithm with analyzing 5 neighbouring data points.
 - Applies a Gaussian fit to determine the position of the detected peaks.
 
-In another code it was repeated with 10.000 different signals to determine the accuracy of the detection method.
+In another code it was repeated with 90.000 different signals to determine the accuracy of the detection method.
