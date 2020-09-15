@@ -1,4 +1,4 @@
-- The control interface of the CMOS ion detector is modified for purpose of the measuerements.
-- The designed high voltage power supply is turned on and off alternately in every 1000 frame of the CMOS chip's operation (serial communication in Python).
+- The control interface of the CMOS ion detector is modified for the purpose of the measuerements.
+- The designed high voltage power supply (ion source) is turned on and off alternately in every 1000 frame of the CMOS chip's operation (serial communication in Python).
 - The data coming from the detector is collected in a 3D array and saved.
 - The analyzation_code.py provides the evaluation of the measurements which includes an interactive visualization tool where a colormap represents the amplitude of the picked-up signals wherby clicking on an individual pixel, the corresponding spectrum can be examined on an additional figure.
